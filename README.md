@@ -5,8 +5,7 @@ Returns the user's IP address, language and software in a JSON string.
 
 ## Usage
 
-Navigate to
-(http://header-parser.nodejs.iadw.in/api/whoami)[http://header-parser.nodejs.iadw.in/api/whoami]
+Navigate to http://header-parser.nodejs.iadw.in/api/whoami
 
 ## Example
 
